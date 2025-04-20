@@ -4,7 +4,7 @@ import { useEffect } from "react"
 import { useGoogleLogin } from "@react-oauth/google"
 import { useNavigate } from "react-router-dom"
 import { googleAuth } from "../api"
-import { Button } from "../components/ui/button"
+import  Button  from "../components/ui/button"
 import axios from 'axios';
 const Login = () => {
   const navigate = useNavigate()
