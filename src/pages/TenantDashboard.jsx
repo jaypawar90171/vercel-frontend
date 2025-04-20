@@ -3,9 +3,9 @@
 import React, { useEffect, useState } from "react"
 import Navbar from "../components/navbar"
 import Footer from "../components/footer"
-import { PropertyCard } from "../components/property-card"
+import PropertyCard from "../components/property-card"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "../components/ui/card"
-import { Progress } from "../components/ui/progress"
+import Progress from "../components/ui/progress"
 import { TabsContent, Tabs, TabsList, TabsTrigger } from "../components/ui/tabs"
 import { Button } from "../components/ui/button"
 import {

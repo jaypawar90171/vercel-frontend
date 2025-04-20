@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import  Navbar from "../components/navbar";
 import  Footer  from "../components/footer";
-import {  PropertyCard } from "../components/property-card";
+import PropertyCard  from "../components/property-card";
 import Button  from "../components/ui/button";
 // import { WalletConnect } from "../components/wallet-connect";
 import Input  from "../components/ui/input";

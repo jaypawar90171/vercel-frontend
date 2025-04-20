@@ -1,9 +1,9 @@
 import React from "react";
 import  Navbar from "../components/navbar";
 import  Footer  from "../components/footer";
-import { Button } from "../components/ui/button";
-import { LandlordStats } from "../components/dashboard-stats";
-import { PropertyCard } from "../components/property-card";
+import Button from "../components/ui/button";
+import LandlordStats from "../components/dashboard-stats";
+import PropertyCard from "../components/property-card";
 // import { WalletConnect } from "../components/wallet-connect";
 import { Plus } from "lucide-react";
 import { Link } from "react-router-dom";

@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card";
-import { Button } from "../components/ui/button";
+import Button  from "../components/ui/button";
 import { Building2, UserRound } from "lucide-react";
 import { useNavigate } from "react-router-dom"; // Use useNavigate instead of Navigate
 
